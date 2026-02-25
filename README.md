@@ -87,9 +87,8 @@ Toepassen van CRUD-functionaliteit
 
 Ontwerpen van een gestructureerde database
 
-Projectinformatie
-
-Opleiding: [Opleiding invullen]
-School: [Schoolnaam invullen]
-Schooljaar: [Jaar invullen]
-Auteurs: [Naam/Namen invullen]
+Projectinformatie:
+-Opleiding: Software Developer
+-School: Davinci 
+-Schooljaar: Leerjaar 3
+-Auteurs: [Naam/Namen invullen]
