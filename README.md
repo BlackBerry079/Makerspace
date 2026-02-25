@@ -8,15 +8,22 @@ Het doel van dit project is het ontwikkelen van een functioneel bestelsysteem me
 Functionaliteiten
 
 Studenten:
-Inloggen met studentnummer
-Bekijken van beschikbare 3D-print producten
-Plaatsen van bestellingen
-Inzien van de status van bestellingen
+
+-Inloggen met studentnummer
+
+-Bekijken van beschikbare 3D-print producten
+
+-Plaatsen van bestellingen
+
+-Inzien van de status van bestellingen
 
 Docenten:
-Overzicht van alle geplaatste bestellingen
-Goedkeuren of afkeuren van bestellingen
-Beheren van orderstatussen
+
+-Overzicht van alle geplaatste bestellingen
+
+-Goedkeuren of afkeuren van bestellingen
+
+-Beheren van orderstatussen
 
 Gebruikte Technologieën
 
@@ -36,17 +43,26 @@ De applicatie is ontwikkeld volgens het MVC-principe (Model-View-Controller), zo
 Globale database-structuur
 
 Voorbeelden van gebruikte tabellen:
+
 -students
+
 -teachers
+
 -products
+
 -orders
+
 -order_status
 
 Relaties:
-Een student kan meerdere orders plaatsen.
-Een order behoort tot één student.
-Een order bevat één of meerdere producten.
-Een docent kan een order goedkeuren of afkeuren.
+
+-Een student kan meerdere orders plaatsen.
+
+-Een order behoort tot één student.
+
+-Een order bevat één of meerdere producten.
+
+-Een docent kan een order goedkeuren of afkeuren.
 
 Installatie:
 
@@ -75,7 +91,7 @@ php artisan migrate
 Start de development server:
 
 php artisan serve
-Leerdoelen
+Leerdoelen:
 
 Ontwikkelen van een webapplicatie met Laravel
 
@@ -88,7 +104,11 @@ Toepassen van CRUD-functionaliteit
 Ontwerpen van een gestructureerde database
 
 Projectinformatie:
+
 -Opleiding: Software Developer
+
 -School: Davinci 
+
 -Schooljaar: Leerjaar 3
+
 -Auteurs: [Naam/Namen invullen]
